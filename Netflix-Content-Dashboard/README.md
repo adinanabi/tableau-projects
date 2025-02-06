@@ -3,7 +3,7 @@
 ## Overview
 
 The **Netflix Content Dashboard** provides insights into Netflix's content library, allowing users to explore distribution patterns, content growth trends, and detailed information about movies and TV shows. This interactive dashboard is designed to help stakeholders analyze key metrics and trends, such as the most popular genres, top countries with content, and content growth over time.
-![Netflix Content Dashboard](data/netflix_dashboard_screenshot.png)
+![Netflix Content Dashboard](Netflix_dashboard.png)
 
 ## Dataset Source
 
