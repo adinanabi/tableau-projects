@@ -1,6 +1,6 @@
 # Tableau Projects  
 
-Welcome to my **Tableau Projects** repository! This repo contains a collection of **Tableau visualizations** for various data analysis tasks.  
+Welcome to my **Tableau Projects** repository! This repo contains a collection of **Tableau visualizations**.  
 
 ## 🚀 Available Projects  
 
