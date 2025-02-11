@@ -2,7 +2,7 @@
 
 Welcome to my **Tableau Projects** repository! This repo contains a collection of **Tableau visualizations**.  
 
-## 🚀 Available Projects  
+## Available Projects  
 
 1️⃣ **Netflix Content Dashboard**  
    - **Overview:** Provides insights into Netflix’s media content, including distribution, growth trends, and movie/TV show details.  
