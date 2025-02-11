@@ -41,26 +41,26 @@ The analysis of Netflix’s content strategy reveals key trends:
 Netflix’s content library has grown significantly since 2015, with an increasing number of titles added each year. Movies remain the dominant content type, but TV shows have seen faster growth rates, particularly in recent years.
 In 2019, movies increased by 19.9% (1,546 titles), while TV shows grew by 63.1% (803 titles). Despite this, movies still represent the majority of Netflix’s catalog, with a total of 4,117 movie titles compared to 1,922 TV shows.
 
-![content library grown over time]()
+<img src="icons/over_time.png" alt="Description" width="500">
 
 ***Which countries contribute the most content, and what does this suggest about Netflix’s global strategy?***
 
 Geographically, the U.S., India, and the U.K. are the top content producers, reinforcing Netflix’s focus on large, English-speaking markets. However, regional diversification is increasing, with Canada, France, Japan, Spain, South Korea, and Germany emerging as key contributors. This signals a global expansion strategy aimed at penetrating local markets and competing with regional streaming platforms. 
 
-![content library grown over time]()
+<img src="icons/map.png" alt="Description" width="500">
 
 ***What are the most popular genres, and how do they align with consumer preferences?***
 
 The most dominant genres on Netflix are International Movies, Drama, and Comedy, highlighting the platform’s diverse content catalog. Drama remains a key category, appealing to a wide range of viewers, while Comedy continues to be a staple, providing accessible entertainment for global audiences. Interestingly, International Movies and International TV Shows appear as distinct genre categories, suggesting that Netflix has a unique classification system for globally distributed content. 
 The genre distribution underscores Netflix’s approach to balancing mainstream entertainment with niche content, ensuring that both broad audiences and specific interest groups are engaged. This strategy enables Netflix to retain a loyal subscriber base while attracting new viewers through a constantly evolving content mix.
 
-![content library grown over time]()
+<img src="icons/genre_distribution.png" alt="Description" width="500">
 
 ***How does the distribution of Movies vs. TV Shows impact the platform's offerings?***
 
 Netflix’s catalog remains movie-heavy (68.17%), but TV shows have grown significantly, increasing by 63.1% in 2019 alone. This suggests a strategic shift toward episodic content, likely driven by its ability to increase watch time, subscriber retention, and franchise potential. 
 
-![content library grown over time]()
+<img src="icons/type_distribution.png" alt="Description" width="300">
 
 
 ## Recommendations
@@ -77,6 +77,7 @@ With India, the U.K., and the U.S. leading in content production, Netflix should
   
 •	Use co-productions and licensing to expand content variety efficiently.
   
+
 **2. Diversify Genre Offerings & Tap into Emerging Preferences**
 
 While Drama and Comedy dominate, rising interest in Documentaries, Thrillers, and International content presents growth opportunities. Expanding niche genres can attract new audiences and enhance engagement.
@@ -89,6 +90,7 @@ While Drama and Comedy dominate, rising interest in Documentaries, Thrillers, an
 •	Use data-driven recommendations to personalize genre discovery.
 
 •	Enhance marketing for underutilized and regional genres.
+
 
 **3. Focus on TV Show Production & Maximize Viewer Retention**
 
@@ -104,6 +106,7 @@ TV shows have grown 63.1% in 2019, outpacing movies, showing that episodic conte
 
 •	Use AI-driven recommendations to increase viewership continuity.
 
+
 **4. Maintain a Balanced Movie Library & Maximize Blockbuster Potential**
 
 Despite TV’s growth, movies still make up 68.17% of Netflix’s catalog and play a crucial role in attracting new subscribers. A balance of original productions and exclusive acquisitions is essential.
@@ -118,18 +121,13 @@ Despite TV’s growth, movies still make up 68.17% of Netflix’s catalog and pl
 
 •	Explore limited-time exclusives to create demand for premium content.
 
+
 ## Tools and Technologies Used:
 •	Python: For data cleaning and transformation using Pandas.
 
 •	Jupyter Notebook: To perform the analysis and document the process.
 
 •	Tableau: For building the interactive dashboard.
-
-
-
-
-
-
 
 ---
 
